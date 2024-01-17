@@ -24,6 +24,8 @@ To change the parameters of the particles, directly change the attraction coeffi
 
 > Need to add Imgui interaction to manage the particles
 
+> Note: It may not work as I am a beginner in cmake
+
 ## Dependencies
 - [GLFW](https://github.com/glfw/glfw)
 - [Glad](https://github.com/Dav1dde/glad)
